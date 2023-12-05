@@ -1,0 +1,30 @@
+PROJET 2
+1ERE PARTIE
+
+proportion des ventes par catégorie de produit ;
+montant des achats des clients (montant du panier) ;
+évolution du chiffre d'affaires ;
+évolution du nombre d'achats des clients ;
+évolution du ratio (nombre d’achats des clients)/(nombre de visites) au cours du temps ;
+évolution du nombre de visites sur le site web au cours du temps ;
+temps passé par les visiteurs sur le site web (pour les sessions ayant abouti à un achat) ;
+évolution de la variabilité du temps passé par les visiteurs sur le site web (pour les sessions ayant abouti à un achat).
+
+trouver 5 graphe pour répondre à tout ça
+
+
+
+
+
+2eme partie
+
+trouver les soucis sur les graph
+
+- soucis sur png.4 : nb de visiteurs sur le site VRAI
+
+- soucis sur png.12 : pas de CA high tech 2020-02 A VERIFIER
+- soucis sur png.13 : disparition du high tech en 2019-11  A VERIFIER
+
+Le high tech représente 50% du CA sur 1 an
+
+
